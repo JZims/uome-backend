@@ -11,34 +11,22 @@
   ],
   "events": [
     {
-      "id": 1,
-      "name": "The Girl Next Door, circa 2004",
-      "cost": 100,
-      "groupId": 2
-    },
-    {
-      "id": 2,
-      "name": "High-stakes Catan",
-      "cost": 350,
-      "groupId": 3
-    },
-    {
-      "id": 3,
-      "name": "Power Lunch at Racines",
-      "cost": 7000,
-      "groupId": 1
-    },
-    {
-      "eventName": "Scythe night",
-      "eventCost": 50,
-      "eventGroupId": 3,
-      "id": 4
-    },
-    {
-      "eventName": "Scythe Night",
-      "eventCost": 50,
-      "eventGroupId": 3,
+      "name": "Drinking Above My Pay Grade",
+      "cost": 3500,
+      "groupId": 1,
       "id": 5
+    },
+    {
+      "name": "Aliens",
+      "cost": 5,
+      "groupId": 2,
+      "id": 6
+    },
+    {
+      "name": "Sup",
+      "cost": 4,
+      "groupId": 1,
+      "id": 7
     }
   ],
   "groups": [
