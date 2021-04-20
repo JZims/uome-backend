@@ -2,39 +2,48 @@
   "user": [
     {
      "id": 1,
-     "name": "Adam", 
-     "eventId": 1
+     "name": "Adam"
     },
     {
       "id": 2,
-      "name": "Josh", 
-      "eventId": 1
+      "name": "Josh"
     }
   ],
   "events": [
     {
-      "eventId": 1, 
+      "id": 1, 
       "name": "The Girl Next Door, circa 2004", 
-      "cost": 100
+      "cost": 100,
+      "groupId": 2
     }, 
     {
-      "eventId": 2, 
+      "id": 2, 
       "name": "High-stakes Catan", 
-      "cost": 350
+      "cost": 350,
+      "groupId": 3
+    }, 
+    {
+      "id": 3, 
+      "name": "Power Lunch at Racines", 
+      "cost": 7000, 
+      "groupId": 1
     }
   ], 
   "groups": [
     {
-      "groupId": 1,
-      "name": "The Wine Budz"
+      "id": 1,
+      "name": "The Wine Budz",
+      "userId": 2
     },
     {
-      "groupId": 2, 
-      "name": "Movie Nerds"
+      "id": 2, 
+      "name": "Movie Nerds",
+      "userId": 1
     }, 
     { 
-      "groupId": 3, 
-      "name": "Boardgame Geeks"
+      "id": 3, 
+      "name": "Boardgame Geeks",
+      "userId": 1
     }
   ]
 }
