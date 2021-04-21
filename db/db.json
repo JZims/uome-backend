@@ -39,6 +39,12 @@
       "cost": 32000,
       "groupId": 1,
       "id": 11
+    },
+    {
+      "name": "test",
+      "cost": 3.5,
+      "groupId": 1,
+      "id": 12
     }
   ],
   "groups": [
