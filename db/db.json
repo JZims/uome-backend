@@ -17,16 +17,28 @@
       "id": 5
     },
     {
-      "name": "Aliens",
-      "cost": 5,
-      "groupId": 2,
-      "id": 6
+      "name": "High Stakes Catan",
+      "cost": 50,
+      "groupId": 3,
+      "id": 8
     },
     {
-      "name": "Sup",
-      "cost": 4,
+      "name": "The Girl Next Door (circa 2004)",
+      "cost": 75,
+      "groupId": 2,
+      "id": 9
+    },
+    {
+      "name": "GodZilla VS Kong II : Electric Boogaloo",
+      "cost": 25.5,
+      "groupId": 2,
+      "id": 10
+    },
+    {
+      "name": "Buying a bottle of Montrachet for the Lads",
+      "cost": 32000,
       "groupId": 1,
-      "id": 7
+      "id": 11
     }
   ],
   "groups": [
