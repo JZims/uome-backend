@@ -1,40 +1,83 @@
 {
   "user": [
     {
-     "id": 1,
-     "name": "Adam", 
-     "eventId": 1
+      "id": 1,
+      "name": "Adam"
     },
     {
       "id": 2,
-      "name": "Josh", 
-      "eventId": 1
+      "name": "Josh"
     }
   ],
   "events": [
     {
-      "eventId": 1, 
-      "name": "The Girl Next Door", 
-      "cost": 100
-    }, 
-    {
-      "eventId": 2, 
-      "name": "High-stakes Catan", 
-      "cost": 350
-    }
-  ], 
-  "groups": [
-    {
-      "groupId": 1,
-      "name": "The Wine Budz"
+      "name": "High Stakes Catan",
+      "cost": 50,
+      "groupId": 3,
+      "id": 8
     },
     {
-      "groupId": 2, 
-      "name": "Movie Nerds"
-    }, 
-    { 
-      "groupId": 3, 
-      "name": "Boardgame Geeks"
+      "name": "The Girl Next Door (circa 2004)",
+      "cost": 75,
+      "groupId": 2,
+      "id": 9
+    },
+    {
+      "name": "GodZilla VS Kong II : Electric Boogaloo",
+      "cost": 25.5,
+      "groupId": 2,
+      "id": 10
+    },
+    {
+      "name": "Elder Sign",
+      "cost": 666,
+      "groupId": 3,
+      "id": 11
+    },
+    {
+      "name": "Spotted him a $20",
+      "cost": 20,
+      "groupId": 1,
+      "id": 12
+    },
+    {
+      "name": "Watched his kids",
+      "cost": 25,
+      "groupId": 4,
+      "id": 13
+    },
+    {
+      "name": "Guy needed a 5 spot",
+      "cost": 5,
+      "groupId": 5,
+      "id": 14
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Some guy from the corner store",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "name": "Movie Nerds",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "name": "Boardgame Geeks",
+      "userId": 1
+    },
+    {
+      "name": "Louie Down the Block",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "Moe with the gimpy leg",
+      "userId": 2,
+      "id": 5
     }
   ]
 }
