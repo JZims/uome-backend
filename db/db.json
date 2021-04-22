@@ -33,18 +33,6 @@
       "cost": 25.5,
       "groupId": 2,
       "id": 10
-    },
-    {
-      "name": "Buying a bottle of Montrachet for the Lads",
-      "cost": 32000,
-      "groupId": 1,
-      "id": 11
-    },
-    {
-      "name": "test",
-      "cost": 3.5,
-      "groupId": 1,
-      "id": 12
     }
   ],
   "groups": [
