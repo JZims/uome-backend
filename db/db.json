@@ -33,6 +33,12 @@
       "cost": 25.5,
       "groupId": 2,
       "id": 10
+    },
+    {
+      "name": "Elder Sign",
+      "cost": 666,
+      "groupId": 3,
+      "id": 11
     }
   ],
   "groups": [
