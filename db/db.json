@@ -1,45 +1,152 @@
 {
   "user": [
     {
-     "id": 1,
-     "name": "Adam"
-     
+      "id": 1,
+      "name": "Adam"
     },
     {
       "id": 2,
       "name": "Josh"
-
     }
   ],
   "events": [
     {
-      "id": 1, 
-      "name": "The Girl Next Door, circa 2004", 
-      "cost": 100,
-      "groupId": 2
-    }, 
-    {
-      "id": 2, 
-      "name": "High-stakes Catan", 
+      "id": 2,
+      "name": "High-stakes Catan",
       "cost": 350,
       "groupID": 3
-    }
-  ], 
-  "groups": [
-    {
-      "id": 1,
-      "name": "The Wine Budz",
-      "userId": 2
     },
     {
-      "id": 2, 
-      "name": "Movie Nerds",
-      "userId": 1
-    }, 
-    { 
-      "id": 3, 
-      "name": "Boardgame Geeks",
-      "userId": 1
+      "name": "ate a bunch of my ham",
+      "cost": 50,
+      "groupId": 8,
+      "id": 24
+    },
+    {
+      "name": "Babysat your children",
+      "cost": 99,
+      "groupId": 10,
+      "id": 27
+    },
+    {
+      "name": "Came over for more ham",
+      "cost": 86,
+      "groupId": 8,
+      "id": 30
+    },
+    {
+      "name": "My ham is all gone now",
+      "cost": 150,
+      "groupId": 8,
+      "id": 31
+    },
+    {
+      "name": "Drove you to your dialysis appointment",
+      "cost": 80,
+      "groupId": 9,
+      "id": 32
+    },
+    {
+      "name": "Bought blood thinner and also burger king on way home",
+      "cost": 70,
+      "groupId": 9,
+      "id": 33
+    },
+    {
+      "name": "Called me fat",
+      "cost": 1050,
+      "groupId": 13,
+      "id": 34
+    },
+    {
+      "name": "Are mean",
+      "cost": 5,
+      "groupId": 13,
+      "id": 35
+    },
+    {
+      "name": "Drew you a picture of a house",
+      "cost": 900,
+      "groupId": 11,
+      "id": 36
+    },
+    {
+      "name": "bought her iHop",
+      "cost": 50,
+      "groupId": 11,
+      "id": 37
+    },
+    {
+      "name": "You ate all my ham",
+      "cost": 30,
+      "groupId": 6,
+      "id": 38
+    },
+    {
+      "name": "You came over to my home and ate, again, more ham",
+      "cost": 50,
+      "groupId": 6,
+      "id": 39
+    },
+    {
+      "name": "Please stop eating my ham",
+      "cost": 50,
+      "groupId": 6,
+      "id": 40
+    },
+    {
+      "name": "Fixed house",
+      "cost": 800,
+      "groupId": 12,
+      "id": 41
+    }
+  ],
+  "groups": [
+    {
+      "name": "Adam",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "name": "ben",
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "name": "Addie",
+      "userId": 2,
+      "number": "4554511",
+      "id": 9
+    },
+    {
+      "name": "josh",
+      "userId": 1,
+      "number": "55555555",
+      "id": 10
+    },
+    {
+      "name": "Jackie",
+      "userId": 1,
+      "number": "888-5563",
+      "id": 11
+    },
+    {
+      "name": "ben",
+      "userId": 1,
+      "number": "8889999",
+      "id": 12
+    },
+    {
+      "name": "Jerry",
+      "userId": 2,
+      "number": "8775500",
+      "id": 13
+    },
+    {
+      "name": "Steve",
+      "userId": 1,
+      "number": "515-537-5555",
+      "id": 14
     }
   ]
 }
