@@ -2,44 +2,42 @@
   "user": [
     {
      "id": 1,
-     "name": "Adam"
-     
+     "name": "Adam", 
+     "eventId": 1
     },
     {
       "id": 2,
-      "name": "Josh"
-
+      "name": "Josh", 
+      "eventId": 1
     }
   ],
   "events": [
     {
       "id": 1, 
       "name": "The Girl Next Door, circa 2004", 
-      "cost": 100,
-      "groupId": 2
+      "cost": 100
     }, 
     {
       "id": 2, 
       "name": "High-stakes Catan", 
-      "cost": 350,
-      "groupID": 3
+      "cost": 350
     }
   ], 
   "groups": [
     {
-      "id": 1,
-      "name": "The Wine Budz",
+      "groupId": 1,
+      "name": "The Wine Budz", 
       "userId": 2
     },
     {
-      "id": 2, 
-      "name": "Movie Nerds",
-      "userId": 1
+      "groupId": 2, 
+      "name": "Movie Nerds", 
+      "userId": 2
     }, 
     { 
-      "id": 3, 
-      "name": "Boardgame Geeks",
-      "userId": 1
+      "groupId": 3, 
+      "name": "Boardgame Geeks", 
+      "userId": 2
     }
   ]
 }
